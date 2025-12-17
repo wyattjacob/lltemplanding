@@ -1,7 +1,0 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-User-agent: *
-Allow: /
-
-Sitemap: https://active-online-software-page-2focxs.teleporthq.app/sitemap.xml
